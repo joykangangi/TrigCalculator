@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trig Calculator</string>
+    <string name="degree">Angle/Number</string>
+    <string name="base">Base</string>
+    <string name="how_to">Which do you want to calculate?</string>
+    <string name="cos">Cosine</string>
+    <string name="tan">Tangent</string>
+    <string name="sin">Sine</string>
+    <string name="fact">Factorial</string>
+    <string name="Log">Log </string>
+    <string name="round_up">Round Up Answer</string>
+    <string name="calculate">Calculate</string>
+    <string name="trig_ans">Answer: %.3f</string>
+    <string name="label">Label</string>
+</resources>
